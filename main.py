@@ -4,7 +4,7 @@ import smtplib
 from datetime import datetime
 
 my_email = "carduibot@gmail.com"
-password = "ydffosgveywfvfrr"
+password = ""
 
 MY_LAT = 21.832350
 MY_LONG = -102.317330
